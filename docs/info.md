@@ -12,3 +12,5 @@ You can also include images in this folder and reference them in the markdown. E
 Wokwi project using a D flip-flop ring to display "EFAB" on the 7-segment display.
 
 ## How to test
+Works best with a slow clock (2~10Hz) or manually stepping with demo board's "step" button.
+Tunr off all input switches, then power on the board. Expect to see "F" blinking on the display with each clock pulse.
